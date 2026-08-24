@@ -22,3 +22,12 @@
   <img src="https://img.shields.io/badge/Zsh-F1502F?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
 </p>
+### 📊 Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiagoariasg491&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+</p>

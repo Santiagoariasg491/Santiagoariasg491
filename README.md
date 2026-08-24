@@ -2,7 +2,7 @@
     <h1 style="text-align: left; color: white; margin: 0;">
         ¡Hey! 👋
         <br>
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Hola%2C+soy+Santiago;Estudiante+de+Ingenier%C3%ADa;Apasionado+por+la+programaci%C3%B3n" alt="Typing SVG" />
+        <img src="https://raw.githubusercontent.com/Santiagoariasg491/Santiagoariasg491/output/github-contribution-grid-snake.svg" width="100%" />
     </h1>
 </div>
 

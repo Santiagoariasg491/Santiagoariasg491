@@ -25,11 +25,11 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiagoariasg491&show_icons=true&theme=tokyonight&hide_border=true" alt="Estadísticas" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Santiagoariasg491&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
 <p align="center">
   <img src="https://raw.githubusercontent.com/PlatziMaster/PlatziMaster/output/github-contribution-grid-snake.svg" alt="Snake animation" />

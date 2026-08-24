@@ -1,7 +1,22 @@
-## Hi there 👋
+<div id="header" align="left"
+    style="background: linear-gradient(to right, white, black); height: 130px; padding: 20px; border-radius: 15px;">
+    <h1 style="text-align: left;">
+        ¡Hey!
+        
+
+        <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="200" />
+        I'm Ing Santi Arias...
+    </h1>
+</div>
+
+
+
+
+
+
 
 <!--
-**Santiagoariasg491/Santiagoariasg491** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Navarrojuan212/Navarrojuan212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 

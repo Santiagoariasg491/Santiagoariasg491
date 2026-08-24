@@ -10,6 +10,10 @@
 <h3 align="center">Estudiante de Desarrollo de Software | Diseñador Gráfico</h3>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/Santiagoariasg491/Santiagoariasg491/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=Santiagoariasg491&color=blue&style=flat-square" alt="Visitas al perfil" />
 </p>
 

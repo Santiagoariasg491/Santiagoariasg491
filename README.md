@@ -2,7 +2,7 @@
     <h1 style="text-align: left; color: white; margin: 0;">
         ¡Hey! 👋
         <br>
-        <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="120" />
+        <img src="https://raw.githubusercontent.com/animate-css/animate.css/main/source/icon.svg" width="120" />
     </h1>
 </div>
 

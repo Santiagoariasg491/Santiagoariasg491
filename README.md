@@ -25,21 +25,6 @@
   <img src="https://img.shields.io/badge/Zsh-F1502F?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
 </p>
-
----
-
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Santiagoariasg491&show_icons=true&theme=radical&hide_border=true" alt="Estadísticas de GitHub" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=radical&hide_border=true" alt="Racha de contribuciones" />
-</p>
-
----
-
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -58,6 +43,8 @@
         </a>
         <a href="https://www.instagram.com/santiago491?igsi=MXQ3NWgwMHZ5YjVubw==" target="_blank">
           <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+        <a href="https://wa.me/573004169246" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat&logo=whatsapp&logoColor=white" alt="WhatsApp" />
         </a>
       </p>
     </td>

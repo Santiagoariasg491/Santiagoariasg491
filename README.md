@@ -31,3 +31,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=tokyonight&hide_border=true" alt="Racha de contribuciones" />
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/PlatziMaster/PlatziMaster/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>

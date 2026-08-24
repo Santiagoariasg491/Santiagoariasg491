@@ -34,3 +34,26 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/PlatziMaster/PlatziMaster/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🚀 Sobre mí</h3>
+      <ul>
+        <li>🌱 Actualmente estoy aprendiendo desarrollo de software.</li>
+        <li>💻 Apasionado por la tecnología, el diseño y Linux.</li>
+        <li>📫 Cómo contactarme: santiago491@gmail.com</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>connect 🌐</h3>
+      <p>
+        <a href="https://www.linkedin.com/in/santiago-arias-433507265/" target="_blank">
+          <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
+        </a>
+        <a href="https://www.instagram.com/santiago491?igsi=MXQ3NWgwMHZ5YjVubw==" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>

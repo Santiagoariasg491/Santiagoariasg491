@@ -2,7 +2,7 @@
     <h1 style="text-align: left; color: white; margin: 0;">
         ¡Hey! 👋
         <br>
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=timeGradient&height=150&section=header&text=Welcome%20to%20my%20profile&fontSize=30&fontColor=ffffff&animation=twinkling" width="100%" />
+        <img src="https://user-images.githubusercontent.com/74038190/213760710-201a57d2-95f1-45c7-b910-44faf209d2f8.gif" width="120" />
     </h1>
 </div>
 

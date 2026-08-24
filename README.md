@@ -1,17 +1,20 @@
-<div id="header" align="left"
-    style="background: linear-gradient(to right, white, black); height: 130px; padding: 20px; border-radius: 15px;">
-    <h1 style="text-align: left;">
-        ¡Hey!
+<div id="header" align="left" style="background: linear-gradient(to right, #1f1f1f, #000000); height: 130px; padding: 20px; border-radius: 15px;">
+    <h1 style="text-align: left; color: white; margin: 0;">
+        ¡Hey! 👋
         <br>
-        <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="200" />
+        <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="120" />
     </h1>
 </div>
+
 <h1 align="center">¡Hola 👋, soy Santiago Arias!</h1>
 <h3 align="center">Estudiante de Desarrollo de Software | Diseñador Gráfico</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Santiagoariasg491&color=blue&style=flat-square" alt="Visitas al perfil" />
 </p>
+
+---
+
 ### 🛠️ Tecnologías y Herramientas
 
 <p>
@@ -22,6 +25,9 @@
   <img src="https://img.shields.io/badge/Zsh-F1502F?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Terminal" />
   <img src="https://img.shields.io/badge/Adobe_Illustrator-FF9A00?style=for-the-badge&logo=adobe-illustrator&logoColor=white" alt="Illustrator" />
 </p>
+
+---
+
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
@@ -31,9 +37,9 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Santiagoariasg491&theme=radical&hide_border=true" alt="Racha de contribuciones" />
 </p>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/PlatziMaster/PlatziMaster/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
+---
+
 <table>
   <tr>
     <td width="50%" valign="top">

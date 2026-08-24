@@ -4,10 +4,9 @@
         ¡Hey!
         <br>
         <img src="https://media.giphy.com/media/xT9IgB5Q6QYqarxeIU/giphy.gif" width="200" />
-        I'm Ing Santi Arias...
     </h1>
 </div>
-<h1 align="center">¡Hola 👋, soy [Santiago Arias]!</h1>
+<h1 align="center">¡Hola 👋, soy Santiago Arias!</h1>
 <h3 align="center">Estudiante de Desarrollo de Software | Diseñador Gráfico</h3>
 
 <p align="center">

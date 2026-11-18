@@ -34,7 +34,8 @@
     <td width="50%" valign="top">
       <h3>🚀 Sobre mí</h3>
       <ul>
-        <li>🌱 Actualmente estoy aprendiendo desarrollo de software.</li>
+        <li>🌱 Actualmente estoy aprendiendo Desarrollo de Software.</li>
+        <li>🌱 Actualmente estoy aprendiendo Ingenieria de Sistemas.</li>
         <li>💻 Apasionado por la tecnología, el diseño y Linux.</li>
         <li>📫 Cómo contactarme: santiago491@gmail.com</li>
       </ul>
